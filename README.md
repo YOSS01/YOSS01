@@ -14,7 +14,4 @@ Hey 👋, <br>I'm Alahyane Youssef<br>Junior Web Developer 👨‍💻 Based in 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yoss01&theme=holi&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=yoss01&icon=6&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
